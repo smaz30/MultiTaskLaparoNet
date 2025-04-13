@@ -1,4 +1,4 @@
-# MultiTaskNet
+# MultiTaskLaparoNet
 
 ![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/movie.gif)
 
@@ -9,3 +9,4 @@ Please follow [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner) to pr
 
 ### Hamlyn
 
+Please download the rectified version of the [Hamlyn Dataset](https://github.com/UZ-SLAMLab/Endo-Depth-and-Motion)
