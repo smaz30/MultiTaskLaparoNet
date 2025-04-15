@@ -7,8 +7,6 @@ import torch.nn.functional as F
 from .convnext2 import ConvNeXtV2
 from collections import OrderedDict
 
-# https://github.com/facebookresearch/ConvNeXt-V2/tree/main?tab=readme-ov-file
-# The weights are those of the finetuned version on imagenet
 def convnextv2_pico(**kwargs):
     dims = [64, 128, 256, 512]
     model = ConvNeXtV2(depths=[2, 2, 6, 2], dims= dims, **kwargs)
