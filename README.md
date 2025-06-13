@@ -1,4 +1,6 @@
 # MultiTaskLaparoNet
+Official Implementation of :  Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach,  Accepted at AIME 2025.
+
 ---
 ![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/asset_multitask.gif)
 ---
