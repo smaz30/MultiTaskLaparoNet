@@ -4,7 +4,16 @@
 ---
 ## Basic Usage
 ```python
+import torch
 from net.multitasknet import MultitaskNet
+
+device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
+state_dict = torch.load("./pretrained/dispnet__convnext_v2_nano_multitask_net.pth.tar")['state_dict']
+model = MultitaskNet(convnext_size = 'nano').to(device)
+
+dummy_input = torch.randn([1,3,256,320]).to(device)
+
+disparity, mask = model(dummy_input)
 ```
 
 ## Dataset
