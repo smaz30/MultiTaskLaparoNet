@@ -3,6 +3,9 @@
 ![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/asset_multitask.gif)
 ---
 ## Basic Usage
+```python
+from net.multitasknet import MultitaskNet
+```
 
 ## Dataset
 
