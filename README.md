@@ -14,6 +14,7 @@ state_dict = torch.load("./pretrained/dispnet__convnext_v2_nano_multitask_net.pt
 model = MultitaskNet(convnext_size = 'nano').to(device)
 model.load_state_dict(state_dict)
 model.eval()
+# NOTE: images should be normalized as in ImageNet
 dummy_input = torch.randn([1,3,256,320]).to(device)
 
 disparity, mask = model(dummy_input)
