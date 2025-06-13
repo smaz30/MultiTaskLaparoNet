@@ -1,7 +1,8 @@
 # MultiTaskLaparoNet
-
-![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/movie.gif)
-
+---
+![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/asset_multitask.gif)
+---
+## Basic Usage
 
 ## Dataset
 
