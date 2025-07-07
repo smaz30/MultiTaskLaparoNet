@@ -1,4 +1,17 @@
 # MultiTaskLaparoNet
+<p align="center">
+  <h2 align="center">Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach</h2>
+  <h3 align="center">AIME 2025</h3>  
+  <h3 align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-031-95838-0_28">Paper</a></h3>
+  <div align="center"></div>
+  <p align="center">
+    <a><strong>Stefano Mazzocchetti</strong></a><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <br />
+    <sup>1</sup><strong>eDIMES Lab – Laboratory of Bioengineering, Department of Medical and Surgical Sciences, University of Bologna</strong>    
+  </p>
+</p>
+
+
 Official Implementation of :  _Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach_,  Accepted at AIME 2025.
 ```
 @inproceedings{mazzocchetti2025surgical,
