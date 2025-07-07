@@ -12,17 +12,8 @@
 </p>
 
 
-Official Implementation of :  _Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach_,  Accepted at AIME 2025.
-```
-@inproceedings{mazzocchetti2025surgical,
-  title={Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach},
-  author={Mazzocchetti, Stefano and Cercenelli, Laura and Marcelli, Emanuela},
-  booktitle={International Conference on Artificial Intelligence in Medicine},
-  pages={283--292},
-  year={2025},
-  organization={Springer}
-}
-```
+<!-- Official Implementation of :  _Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach_,  Accepted at AIME 2025. -->
+
 ---
 ![](https://github.com/smaz30/MultiTaskNet/blob/main/assets/asset_multitask.gif)
 ---
@@ -49,3 +40,18 @@ Please follow [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner) to pr
 
 ### Hamlyn
 Please download the rectified version of the [Hamlyn Dataset](https://github.com/UZ-SLAMLab/Endo-Depth-and-Motion)
+
+
+## ✏️ 📄 Citation
+
+If you find our work useful in your research please consider citing our paper:
+```
+@inproceedings{mazzocchetti2025surgical,
+  title={Surgical Instrument Segmentation and Self-Supervised Monocular Depth Estimation in Minimally Invasive Surgery: A Multi-task Learning Approach},
+  author={Mazzocchetti, Stefano and Cercenelli, Laura and Marcelli, Emanuela},
+  booktitle={International Conference on Artificial Intelligence in Medicine},
+  pages={283--292},
+  year={2025},
+  organization={Springer}
+}
+```
